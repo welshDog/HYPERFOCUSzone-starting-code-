@@ -9,7 +9,7 @@
 ✅ Require a pull request before merging
   ├─ Required number of reviewers before merging: 2
   ├─ ✅ Dismiss stale pull request approvals when new commits are pushed
-  ├─ ✅ Require review from code owners
+  ├─ ❌ Require review from code owners (Requires GitHub Pro - skip for now)
   └─ ✅ Restrict pushes that create files larger than 100MB
 
 ✅ Require status checks to pass before merging
