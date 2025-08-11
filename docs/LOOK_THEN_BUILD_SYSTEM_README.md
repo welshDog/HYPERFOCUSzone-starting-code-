@@ -1,7 +1,7 @@
 # 🔥 BROski Ultra LOOK-THEN-BUILD System 🚦
 
 **BROski Level: LEGENDARY | Status: MANDATORY FOR ALL AGENTS**
-_Last updated: 2025-07-08_
+_Last updated: August 11, 2025_
 
 ---
 
