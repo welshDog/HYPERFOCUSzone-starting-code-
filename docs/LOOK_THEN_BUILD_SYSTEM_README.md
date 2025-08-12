@@ -1,4 +1,7 @@
-# 🔥 BROski Ultra LOOK-THEN-BUILD System 🚦
+# 🔥 BROski Ultra LOOK-THEN-BUILD Syst    - For Boardroom system changes, manually edit and update `BOARDROOM_SYSTEM_README.md` to reflect the latest changes, and use the provided script or tool to update the latest Boardroom Memory Crystal JSON file (e.g., `memory_crystals/BOARDROOM_MEMORY_CRYSTAL_YYYYMMDD.json`), ensuring both are fully synchronized.
+    - For Revenue Empire system changes, update both main README files and generate Revenue Empire Memory Crystals (NEW August 12, 2025)
+    - After any change, **update the Memory Crystal system** so all agents know what's new.
+    - For major system deployments (Boardroom, Revenue Empire, etc.), update both documentation and Memory Crystals simultaneously.🚦
 
 **BROski Level: LEGENDARY | Status: MANDATORY FOR ALL AGENTS**
 _Last updated: August 11, 2025_
