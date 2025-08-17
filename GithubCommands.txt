@@ -1,0 +1,21 @@
+# 🚀 POST-GITHUB-CREATION COMMANDS
+# Run these commands AFTER creating the GitHub repository
+
+# Step 1: Add remote origin (replace YOUR_USERNAME with your actual GitHub username)
+git remote add origin https://github.com/YOUR_USERNAME/HYPERFOCUSzone-PRIVATE.git
+
+# Step 2: Rename branch to main (modern standard)
+git branch -M main
+
+# Step 3: Push to GitHub
+git push -u origin main
+
+# If you get authentication errors, you may need to set up a Personal Access Token:
+# 1. Go to GitHub Settings > Developer settings > Personal access tokens > Tokens (classic)
+# 2. Generate new token with 'repo' scope
+# 3. Use the token as your password when prompted
+
+# Verify everything worked:
+git remote -v
+git status
+git log --oneline -5
