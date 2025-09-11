@@ -1,25 +1,39 @@
-# 🚀💎⚡ HYPERFOCUS MEGA FUSION ECOSYSTEM - PRIVATE DEVELOPMENT ⚡💎🚀
+# Hyperfocus Zone — ADHD-First Agent OS 🌌
 
-## 🏆 THE ULTIMATE ADHD-OPTIMIZED AI INTELLIGENCE & PRODUCTIVITY EMPIRE
+**A constellation of open-source projects built for neurodivergent creators.**
+Each repo is a star — together they form a productivity galaxy tuned for ADHD, dyslexia, and creative flow.
 
-**⚠️ CONFIDENTIAL AND PROPRIETARY SOFTWARE ⚠️**
+## 🚀 Explore the Constellation
+> *Pick a star. Fork it. Join the rehearsal.*
 
-This repository contains the core HYPERFOCUS ecosystem - a revolutionary ADHD-optimized productivity and AI intelligence platform. Access is restricted to authorized personnel only.
+| ⭐ Repo Name | ⚙️ What It Does | 🧠 Vibe |
+|------------|----------------|--------|
+| [HYPERFOCUSzone-starting-code-](https://github.com/welshDog/HYPERFOCUSzone-starting-code-) | Core fusion ecosystem: orchestrator, dopamine guardian, memory crystals | Public preview (core) |
+| [BROski-Hyperspace-template](https://github.com/welshDog/BROski-Hyperspace-template) | VS Code workspace + vibe engine | Dev playground with BROski flair |
+| [Hyper-vibe-engine](https://github.com/welshDog/Hyper-vibe-engine) | Turns images into soundtracks, stories into portals | Audio-visual magic |
+| [HYPERFOCUS-ZONE-NEURO-SOCIAL-DREAMER-](https://github.com/welshDog/HYPERFOCUS-ZONE-NEURO-SOCIAL-DREAMER-) | Reimagining social media for ADHD minds | Dreamer's network |
+| [HYPERFOCUS-UNIFIED-EMPIRE](https://github.com/welshDog/HYPERFOCUS-UNIFIED-EMPIRE) | Unified AI ecosystem | Empire-level coordination hub |
+| [My-Social-COMs-Buddy](https://github.com/welshDog/My-Social-COMs-Buddy) | AI comms assistant for dyslexia | Empathy meets automation |
+| [HyperSpace](https://github.com/welshDog/HyperSpace) | TypeScript-powered hyperspace | Fast, modular, remix-ready |
+| [HYPERFOCUSzone-Community](https://github.com/welshDog/HYPERFOCUSzone-Community) | Showcase + onboarding assets | Public-facing celebration zone |
+| [HYPERFOCUS-ZONE-Omega-Vault-](https://github.com/welshDog/HYPERFOCUS-ZONE-Omega-Vault-) | Legendary archive of HFZ artifacts | Lore + relics |
+| [Hyper-vibe-studio](https://github.com/welshDog/Hyper-vibe-studio) | VS Code automation revolution | ADHD-friendly dev studio |
+| [Lyndz-Wish-for-Help-to-build-HyperfocusZone](https://github.com/welshDog/Lyndz-Wish-for-Help-to-build-HyperfocusZone) | Sponsorship & help-wanted | Call for allies & squadmates |
 
 ---
 
-## 🔒 **REPOSITORY ACCESS CONTROL**
+## 🔧 Quick start (for devs)
+1. Pick a repo from the Constellation.  
+2. Fork & open an issue titled `adopt: <repo-name>` if you'd like to co-maintain.  
+3. Check `CONTRIBUTING.md` for onboarding steps and `SUPPORT.md` to see how to help fund the servers.
 
-**Classification**: HIGHLY CONFIDENTIAL
-**License**: Proprietary (See LICENSE file)
-**Access Level**: INVITE-ONLY
-**NDA Required**: YES
+## 💜 Why this exists
+Hyperfocus Zone was built from real pain: lost context, brutal context-switch cost, and burnout. Tools like **Memory Crystals** and **Dopamine Guardian** were made to protect focus and turn hyperfixation into productivity — not punishment.
 
-### **Access Tiers:**
-- **🏆 Core Team**: Full repository access, production deployment
-- **💎 Trusted Developers**: Development branches, staging environment
-- **⚡ Beta Testers**: Selected features, test environment
-- **🎭 Demo Users**: Public demo access only
+## 📣 Join the rehearsal
+- Discord: *[Add your Discord invite link here]*  
+- GitHub: [https://github.com/welshDog?tab=repositories](https://github.com/welshDog?tab=repositories)  
+- Support: see `SUPPORT.md` in this repo
 
 ---
 
