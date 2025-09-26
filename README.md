@@ -6,7 +6,9 @@
 
 This repository contains the core HYPERFOCUS ecosystem - a revolutionary ADHD-optimized productivity and AI intelligence platform. Access is restricted to authorized personnel only.
 
----
+[💎⚡ SUPPORT THE HYPERFOCUS EMPIRE ⚡💎 – Donation & Sponsorship Portal](https://welshdog.github.io/hyperfocuszone.com-Support-Hub-/)
+
+> Join our Focus Warriors, Elite Agents, and Empire Builders to power next-gen ADHD-friendly tools!
 
 ## 🔒 **REPOSITORY ACCESS CONTROL**
 
