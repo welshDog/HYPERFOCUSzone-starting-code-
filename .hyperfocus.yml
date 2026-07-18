@@ -1,0 +1,12 @@
+# HyperFocus Z0ne repo manifest - read by scripts/gen_repo_map.py
+# Edit this file, then re-run the generator. Never hand-edit the map.
+
+name: "HYPERFOCUSzone-starting-code-"
+emoji: "🔒"
+tagline: "Private 'mega-fusion' ecosystem repo (confidential/proprietary)"
+category: "web"
+stack: "Mixed"
+first_doc: "README.md"
+tier: "PARKED"
+url: ""
+notes: ""
